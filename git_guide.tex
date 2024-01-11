@@ -37,6 +37,14 @@ Se vogliamo iniziare a controllare le versioni dei file esistenti dovremmo fare 
     $ git commit -m 'initial project version'
 \end{verbatim}
 
+
+
+\subsubsection*{Committiamo i cambiamenti}
+Dobbiamo precisare che ai cambiamenti verranno aggiunti solo i file che abbiamo aggiunto con \texttt{git add}. Ora eseguiamo: 
+\begin{verbatim}
+    $ git commit
+\end{verbatim}
+
 Ora per modificare il file di configurazione di git dobbiamo eseguire:
 
 \begin{verbatim}
@@ -63,4 +71,18 @@ Visualizzeremo:
 \end{itemize}
 
 
+\subsection*{Come ripristinare un percorso}
+Se ci siamo resi conto che un certo \texttt{commit} non era necessario allora dobbiamo prendere la lista degli hash con il comando:
+\begin{verbatim}
+    $ git log --online
+        436ad25 (HEAD -> master) update
+        0d014f0 Aggiunto nuovi file
+\end{verbatim}
+e poi dobbiamo eseguire:
+\begin{verbatim}
+    $ git checkout 0d014f0
+\end{verbatim}
+
+\subsection*{Git Revert e Git Reset (soft, mixed, hard)}
+Permette di tornare indietro nel tempo. Il primo comando 
 \end{document}
