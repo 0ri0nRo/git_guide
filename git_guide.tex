@@ -159,4 +159,22 @@ Creare un nuovo branch aiuta a organizzare il lavoro e permettere il lavoro di d
     $ git branch NOME-BRANCH
 \end{verbatim}
 
+Una volta effettuati tutti i cambiamenti dobbiamo fare il \texttt{commit} su questo branch e poi il \texttt{push}.
+
+Eliminare da GitHub il branch bisogna eseguire:
+\begin{verbatim}
+    $ git push origin --delete NOME_BRANCH
+\end{verbatim}
+Ma per elimminarlo anche in locale bisogna prima fare lo switch al branch \texttt{master} con \texttt{git checkout master} e poi eliminare con:
+\begin{verbatim}
+    $ git branch -D NOME_BRANCH_DA_ELIMINARE
+\end{verbatim}
+
+\subsection*{Git merge}
+Una volta soddisfatti dei nostri cambiamenti possiamo fare il \texttt{merge}:
+\begin{verbatim}
+    $ git merge NOME_BRANCH_CREATO
+\end{verbatim}
+
+
 \end{document}
