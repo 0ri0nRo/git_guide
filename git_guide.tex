@@ -22,6 +22,32 @@ I file in Git possono essere in tre stati principali: modified (modificati), sta
     \item \textbf{Committato} significa che il file è registrato al sicuro nel database locale.
 \end{itemize} 
 
+\subsection*{Aggiungere nome ed e-mail}
+\begin{itemize}
+    \item Aprire la linea di comando
+    \item Settare il proprio user name digitando:
+    \begin{verbatim}    
+        git config --global user.name "FIRST_NAME LAST_NAME"
+    \end{verbatim}
+    \item Settare la propria email: 
+    \begin{verbatim}
+        git config --global user.email "MY_NAME@example.com"
+    \end{verbatim}    
+\end{itemize}
+
+\subsection*{Controllare nome ed e-mail}
+\begin{itemize}
+    \item Aprire la linea di comando
+    \item Controllare il proprio user name digitando:
+    \begin{verbatim}    
+        git config --global user.name
+    \end{verbatim}
+    \item Controllare la propria email: 
+    \begin{verbatim}
+        git config --global user.email
+    \end{verbatim}    
+\end{itemize}
+
 
 \subsection*{Comandi}
 \subsubsection*{Inizializiamo una repository di una directory esistente}
