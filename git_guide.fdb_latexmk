@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1704980324 "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" "git_guide.pdf" "git_guide" 1704980327 0
-  "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" 1704980321 5987 04291b6eb1c1d6746b89354a0731612c ""
+["pdflatex"] 1704980435 "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" "git_guide.pdf" "git_guide" 1704980437 0
+  "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" 1704980431 6016 0351f3a40e9a35a9ca826ab931c4a8ef ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1701016918 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701018571 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1701017966 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -32,6 +32,11 @@
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1701014839 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1701016919 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1701020991 71627 94eb9990bed73c364d7f53f960cc8c5b ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel-italian/italian.ldf" 1701015460 11863 da7e32d14d6f13904da303e3e47824fa ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty" 1701015380 148310 a8058e0ae8913a05f750395bfbda36db ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel/locale/it/babel-it.ini" 1701015381 4255 d2c36ede3f04f7968d64917327cbb37a ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex" 1701015381 336 03ec4eb0d03eb340ff7cfbc6acac5ec5 ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def" 1701015381 6939 32fafc8710de4e160e43d0f176d64af5 ""
   "c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1701014839 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1701014839 13829 94730e64147574077f8ecfea9bb69af4 ""
   "c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd" 1701014839 961 6518c6525a34feb5e8250ffa91731cff ""
@@ -45,6 +50,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty" 1701019867 5048 4a74b0804469fbfae7849704c4687a07 ""
   "c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1701019867 8448 74078c4a887f2cdcd57c3ec111622740 ""
   "c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1701018149 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1701018225 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1701018913 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1701018913 1224 978390e9c2234eab29404bc21b268d1e ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def" 1701018914 19448 1e988b341dda20961a6b931bcde55519 ""
@@ -65,8 +71,8 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701026035 4754669 d96ac81ce84784930de265f48f40d2ce ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701026336 8213455 3f1b7271f707a89362231bfe7cb86f45 ""
   "c:/texlive/2023/texmf.cnf" 1701025992 713 e69b156964470283e0530f5060668171 ""
-  "git_guide.aux" 1704980326 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
-  "git_guide.tex" 1704980321 5987 04291b6eb1c1d6746b89354a0731612c ""
+  "git_guide.aux" 1704980437 134 ba664aeaeec7b39a28f45de4c145e163 "pdflatex"
+  "git_guide.tex" 1704980431 6016 0351f3a40e9a35a9ca826ab931c4a8ef ""
   "img/git-branches.png" 1704970681 12350 4a00e8ca693c3adae1ef4fded4cafe0c ""
   (generated)
   "git_guide.aux"
