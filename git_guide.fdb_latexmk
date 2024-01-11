@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1704969191 "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" "git_guide.pdf" "git_guide" 1704969194 0
-  "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" 1704969193 3826 cf13c106554d1565c8813de35960bdf4 ""
+["pdflatex"] 1704969225 "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" "git_guide.pdf" "git_guide" 1704969227 0
+  "c:/Users/alexandru.colacel/OneDrive - LUTECH SPA/Desktop/Alexandru/Studio/git_guide/git_guide.tex" 1704969224 3815 fa36361be4ee793aba932ae4f78085cf ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1701016918 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1701018571 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1701017966 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -59,8 +59,8 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701026035 4754669 d96ac81ce84784930de265f48f40d2ce ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701026336 8213455 3f1b7271f707a89362231bfe7cb86f45 ""
   "c:/texlive/2023/texmf.cnf" 1701025992 713 e69b156964470283e0530f5060668171 ""
-  "git_guide.aux" 1704969193 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "git_guide.tex" 1704969193 3826 cf13c106554d1565c8813de35960bdf4 ""
+  "git_guide.aux" 1704969227 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "git_guide.tex" 1704969224 3815 fa36361be4ee793aba932ae4f78085cf ""
   (generated)
   "git_guide.aux"
   "git_guide.log"
