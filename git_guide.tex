@@ -97,6 +97,23 @@ Permette di tornare indietro nel tempo. Il primo comando è:
 \subsubsection*{Ignoriamo dei Files o Directory con Git}
 Bisogna creare un file \texttt{.gitignore} e inserire il path da ignorare.
 
+\section*{Come gestire una repository su GitHub da CLI}
+Creare una nuova repository:
+\begin{verbatim}
+    $ git init
+    $ git add FILE.extension
+    $ git commit -m "first commit"
+    $ git remote add origin https://gitub.com/NOME_SU_GITHUB/NOME_PROGETTO.git
+    $ git push -u origin master
+\end{verbatim}
+
+Aggiungere ad una repository esistente:
+\begin{verbatim}
+    $ git remote add origin https://gitub.com/NOME_SU_GITHUB/NOME_PROGETTO.git
+    $ git push -u origin master
+\end{verbatim}
+
+
 
 
 \end{document}
