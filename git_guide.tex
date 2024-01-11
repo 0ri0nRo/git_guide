@@ -14,7 +14,7 @@
 \maketitle
 
 
-\section{Git}
+\section*{Git}
 I file in Git possono essere in tre stati principali: modified (modificati), staged (in stage) e committed (committati).
 \begin{itemize}
     \item \textbf{Modificato} significa che il file è stato modificato, ma non è ancora stato committato nel database. 
@@ -23,8 +23,8 @@ I file in Git possono essere in tre stati principali: modified (modificati), sta
 \end{itemize} 
 
 
-\subsection{Comandi}
-\subsubsection{Inizializiamo una repository di una directory esistente}
+\subsection*{Comandi}
+\subsubsection*{Inizializiamo una repository di una directory esistente}
 Se abbiamo una directory già esistente allora possiamo eseguire
 \begin{verbatim}
     $ git init
@@ -35,20 +35,32 @@ Se vogliamo iniziare a controllare le versioni dei file esistenti dovremmo fare 
     $ git add *.c
     $ git add LICENSE
     $ git commit -m 'initial project version'
-\end{verbatism}
+\end{verbatim}
 
 Ora per modificare il file di configurazione di git dobbiamo eseguire:
+
 \begin{verbatim}
     $ code ~/.gitconfig
 \end{verbatim}
 
 
-\subsection{Controllare lo status dei nostri files}
+\subsection*{Controllare lo status dei nostri files}
 Il comando principale da usare per determinare quali file sono stati aggiunti e per determinare lo stato nel quale si trovano bisogna usare il comando:
 \begin{verbatim}
     $ git status
 \end{verbatim}
 
+Il comando \texttt{git log} visualizza tutti i commit nella cronologia di una repository. Eseguendo quindi:
+\begin{verbatim}
+    $ git log
+\end{verbatim}
+Visualizzeremo:
+\begin{itemize}
+    \item Secure Hash Algorithm (SHA)
+    \item autore
+    \item data
+    \item messaggio di commit
+\end{itemize}
 
 
 \end{document}
