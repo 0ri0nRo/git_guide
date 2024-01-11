@@ -171,8 +171,9 @@ Ma per elimminarlo anche in locale bisogna prima fare lo switch al branch \textt
 \end{verbatim}
 
 \subsection*{Git merge}
-Una volta soddisfatti dei nostri cambiamenti possiamo fare il \texttt{merge}:
+Una volta soddisfatti dei nostri cambiamenti possiamo fare lo switch nel branch \texttt{master} e poi eseguire il \texttt{merge}:
 \begin{verbatim}
+    $ git checkout master
     $ git merge NOME_BRANCH_CREATO
 \end{verbatim}
 
